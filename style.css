@@ -1,0 +1,44 @@
+#col{
+    display: flex !important;
+    justify-content: start !important;
+    gap: 8px !important;
+}
+
+body{
+    background-color: grey !important;
+    margin: 10px !important;
+}
+
+.card-img-top{
+    padding: 3px !important;
+}
+
+.nav-link{
+    color: white !important;
+    margin-bottom: 40px !important;
+}
+
+hr{
+    color: white !important;
+    width: 1900px !important;
+    border-top: 2px solid !important;
+}
+
+#album-grande{
+    font-size: 40px !important;
+}
+
+h5{
+    text-align: center;
+    border-radius: 20px;
+    
+}
+
+.card-text{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+button{
+    font-size: 32px !important;
+}
